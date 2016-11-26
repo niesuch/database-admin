@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/B:/xampp/htdocs/databaseadmin/views/log_error.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/config/Application/Application_Config.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/config/Application/Adapter.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Db/Db.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/views/index.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/views/log_query.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Paginator/Paginator.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Utility.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/config/application.ini</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/config/autoloader.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/css/style.css</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Database_Admin/Database_Admin.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Globals.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/js/script.js</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/lib/Logger/Logger.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/index.php</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/todo.txt</file>
+            <file>file:/B:/xampp/htdocs/databaseadmin/views/log_history_query.php</file>
+        </group>
+    </open-files>
+</project-private>
