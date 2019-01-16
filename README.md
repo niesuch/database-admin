@@ -6,7 +6,7 @@
 1. [Description](https://github.com/niesuch/database-admin#description)
 2. [How to install](https://github.com/niesuch/database-admin#how-to-install)
 3. [Starting configuration](https://github.com/niesuch/database-admin#starting-configuration)
-4. [Changelogs](https://github.com/niesuch/database-admin#changelogs)
+4. [Changelog](https://github.com/niesuch/database-admin#changelog)
 5. [Copyright and License](https://github.com/niesuch/database-admin#copyright-and-license)
 
 ## Description:
@@ -94,8 +94,8 @@ CREATE TABLE IF NOT EXISTS `log_history_query` (
 
 Now you can run application!
 
-## Changelogs
-Click on this link to see changelogs: [CHANGELOG](https://github.com/niesuch/database-admin/releases)
+## Changelog
+Click on the following link to see the changelog: [CHANGELOG](https://github.com/niesuch/database-admin/releases)
 
 ## Copyright and License
 Copyright 2016 Niesuch, Inc. Code released under the [MIT license](https://github.com/niesuch/database-admin/blob/master/LICENSE.md).
